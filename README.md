@@ -52,6 +52,8 @@ Put the resources on directory `/modeling`
 ### How to run API
 python app.py
 
+After run, go to `/docs` for see swagger documentation.
+
 ---
 
 ## 📬 Contact
