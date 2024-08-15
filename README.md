@@ -18,7 +18,7 @@ This project focuses on analyzing sentiment in social media comments and categor
 - **Text Preprocessing**: Handles slang, emojis, and other social media-specific language nuances.
 
 ### 📄 File Descriptions
-- **train_preprocess.tsv**: Original dataset containing social media comments
+- **train_preprocess.tsv**: Original dataset containing social media comments.
 - **new_kamusalay.csv**: For data cleansing needs.
 - **NN_MLP.ipynb**: Jupyter notebook for training MLP model.
 - **LSTM.ipynb**: Jupyter notebook for training LSTM model.
